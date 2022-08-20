@@ -6,8 +6,8 @@ The following project includes deploying AWS infastructure on both server and ne
 
 ### Steps For Run:
 1- Run the following command in the directory of the create.sh file. ``./create.sh Stack-Name network.yml network-parameters.json  us-east-1 ``
-2. Run the following command in the directory of the create.sh file. `` ./create.sh Stack-name servers.yml server-parameters.json  us-east-1``
-3. Get the DNS name from the load balancer section and paste it in your browser.
+1. Run the following command in the directory of the create.sh file. `` ./create.sh Stack-name servers.yml server-parameters.json  us-east-1``
+2. Get the DNS name from the load balancer section and paste it in your browser.
 
 
 ### Load Balancer DNS:
